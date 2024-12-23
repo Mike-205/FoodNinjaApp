@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
+    // Design size = 375, 812
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
